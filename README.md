@@ -5,7 +5,7 @@ Tip and tricks:
 
 Repo init command:
 
-	repo init -u https://github.com/ezio84/pnmod-n_manifest.git -b n
+	repo init -u https://github.com/edstjohn/pnmod-n_manifest.git -b n
 
 Sync source (for future syncs, if you have errors, try "repo sync --force-sync")
 
@@ -13,8 +13,8 @@ Sync source (for future syncs, if you have errors, try "repo sync --force-sync")
 
 To build:
 
-        https://github.com/ezio84/scripts/blob/n/README.mkdn
-        https://github.com/ezio84/scripts/blob/n/build_rom.sh
+        https://github.com/edstjohn/scripts/blob/n/README.mkdn
+        https://github.com/edstjohn/scripts/blob/n/build_rom.sh
 
 
 =====================
